@@ -39,10 +39,4 @@ public class Bean {
         name = "";
     }
 
-    public void qingge(){
-
-        Log.e("TAG","你好啊");
-
-    }
-
 }
