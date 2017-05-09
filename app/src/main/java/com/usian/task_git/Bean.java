@@ -41,7 +41,7 @@ public class Bean {
 
     public void qingge(){
 
-        Log.e("TAG","你好啊");
+        Log.e("TAG","你好啊a ");
 
     }
 
