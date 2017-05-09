@@ -1,5 +1,7 @@
 package com.usian.task_git;
 
+import android.util.Log;
+
 /**
  * Created by 丰 on 2017/5/9.
  */
@@ -32,4 +34,11 @@ public class Bean {
     public void setAge(String age) {
         this.age = age;
     }
+
+    public void qingge(){
+
+        Log.e("TAG","你好啊");
+
+    }
+
 }
