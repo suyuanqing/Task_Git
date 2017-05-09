@@ -1,5 +1,7 @@
 package com.usian.task_git;
 
+import android.widget.Toast;
+
 /**
  * Created by 丰 on 2017/5/9.
  */
@@ -31,5 +33,9 @@ public class Bean {
 
     public void setAge(String age) {
         this.age = age;
+    }
+
+    public void running(){
+        name = "";
     }
 }
