@@ -1,7 +1,5 @@
 package com.usian.task_git;
 
-import android.widget.Toast;
-
 /**
  * Created by 丰 on 2017/5/9.
  */
@@ -38,4 +36,11 @@ public class Bean {
     public void running(){
         name = "";
     }
+
+    public void qingge(){
+
+        Log.e("TAG","你好啊");
+
+    }
+
 }
